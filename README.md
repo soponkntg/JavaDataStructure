@@ -1,2 +1,2 @@
 # JavaDataStructure
-My learning about data structure in Java lanhuage.
+My learning about data structure in Java language.
